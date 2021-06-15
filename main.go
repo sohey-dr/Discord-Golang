@@ -10,7 +10,7 @@ import (
 )
  
 const(
-  TOKEN = "ODU0Mjk5ODE3MzA2NzUwOTg2.YMh6tA.UcN-xqLyv-f38QIlREDQliNj-8c"
+  TOKEN = "env.token"
 )
  
 func main() {
